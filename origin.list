@@ -26,16 +26,16 @@
 #   Mail:    zelo72@dismail.de
 # --------------------------------------------
 #
-# 1. Source: https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.ts.black.list
-# 2. Source: https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/fake.vzni.black.list
-# 3. Source: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
-# 4. Source: https://assets.windscribe.com/custom_blocklists/clickbait.txt
-# 5. Source: https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
-# 6. Source: https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+#   Nr |   Count | Type    | Source | Status  | File      | URL/File
+#    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
+#    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
+#    3 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
+#    4 |    5465 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+#    5 |    1419 | domains | local  | online  | unchanged | black.list.fake
+#    6 |    1383 | domains | local  | online  | unchanged | fake.ts.black.list
+#    7 |     478 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
-# ---------------------------------------------
-# 15218 Domains - V2021.10.04-21:50:52
-# ---------------------------------------------
+# 15224 unique Domains
 #
 1000gratisproben.com
 1200isplenty.com
@@ -1399,6 +1399,7 @@ dailynewsbin.com
 dailynewsposts.info
 dailyoccupation.com
 dailypostfeed.com
+dailysquib.co.uk
 dailystormer.com
 dailywish43.com
 dakotatimes.com
@@ -5097,6 +5098,7 @@ pennrecord.com
 pensacolatimes.com
 pension-heuhexe.de
 pensions.news
+peoplemagazine.co.za
 peoriastandard.com
 peoriasun.com
 peppesbutik.se
@@ -6556,9 +6558,11 @@ thecommonsenseshow.com
 thecontroversialfiles.net
 thecrypto-genius.net
 thedailybell.com
+thedailymash.co.uk
 thedcgazette.com
 thedesktopoffice.com
 theduran.com
+theearthchild.co.za
 theeconomiccollapseblog.com
 theeventchronicle.com
 thefederalistpapers.org
@@ -6612,6 +6616,7 @@ theonlinewealthbuilders.com
 theordinaryme.de
 thephones.net
 thephotostick.com
+thepoke.co.uk
 thepoliticalinsider.com
 theportlygazelle.com
 theracketreport.com
@@ -6631,6 +6636,7 @@ thesconi.com
 thesecretdate.at
 thesecretdate.de
 thesecretedate.com
+theshovel.com.au
 theskunk.org
 thesleuthjournal.com
 thesoleuniverse.com
