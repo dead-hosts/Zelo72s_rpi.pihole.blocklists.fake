@@ -26,7 +26,7 @@
 #   Mail:    zelo72@dismail.de
 # --------------------------------------------
 #
-#   Nr |   Count | Type    | Source | Status  | File      | URL/File
+#   Nr |   Count | Format  | Source | Status  | File      | URL/File
 #    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 #    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
 #    3 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
@@ -35,7 +35,7 @@
 #    6 |    1383 | domains | local  | online  | unchanged | fake.ts.black.list
 #    7 |     478 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
-# 15224 unique Domains
+# 15212 unique Domains
 #
 1000gratisproben.com
 1200isplenty.com
@@ -367,7 +367,6 @@ architektur-leben.at
 arcteryxoutlets.com
 arcticsoul.de
 arda-car.com
-ardesign.at
 ardivine.com
 aredfoods.com
 arena-jeux.com
@@ -2255,7 +2254,6 @@ fitness-im-buero.de
 fitnessory.com
 fitnesspassion24.com
 fitness-zuhause24.de
-flaechenhuegel.at
 flarecord.com
 flashangebote.com
 flash-player-update.info
@@ -4409,7 +4407,6 @@ musikzitat.at
 muskegonsun.com
 muzam.de
 mvbergweiler.de
-m-wanted.at
 mxows.com
 myadidas.xyz
 myawward.com
@@ -5114,7 +5111,6 @@ persheliosl.com
 personalisiertefotodecke.de
 perueckensale.com
 pesticides.news
-peterhuetter.at
 petersdorf2.at
 petety.top
 petfoodwarning.com
@@ -5991,7 +5987,6 @@ siouxempiretoday.com
 sisterok.de
 sitsshow.blogspot.com
 s-j-ruppenthal.de
-sj-steyr.at
 skatess.cc
 skechers-ch.com
 skechersosterreich.at
@@ -7227,7 +7222,6 @@ vnr.de
 voc-zwettl.at
 vodplay.de
 vogelwild-coaching.de
-vogelzwitschern.at
 volina.de
 volksbank-notwendige-nachricht.com
 volly-sp.de
@@ -7893,7 +7887,6 @@ www.architektur-leben.at
 www.arcteryxoutlets.com
 www.arcticsoul.de
 www.arda-car.com
-www.ardesign.at
 www.ardivine.com
 www.aredfoods.com
 www.arena-jeux.com
@@ -9726,7 +9719,6 @@ www.fitness-im-buero.de
 www.fitnessory.com
 www.fitnesspassion24.com
 www.fitness-zuhause24.de
-www.flaechenhuegel.at
 www.flarecord.com
 www.flashangebote.com
 www.flash-player-update.info
@@ -11824,7 +11816,6 @@ www.musikzitat.at
 www.muskegonsun.com
 www.muzam.de
 www.mvbergweiler.de
-www.m-wanted.at
 www.mxows.com
 www.myadidas.xyz
 www.myawward.com
@@ -12511,7 +12502,6 @@ www.persheliosl.com
 www.personalisiertefotodecke.de
 www.perueckensale.com
 www.pesticides.news
-www.peterhuetter.at
 www.petersdorf2.at
 www.petety.top
 www.petfoodwarning.com
@@ -13373,7 +13363,6 @@ www.siouxcitytimes.com
 www.siouxempiretoday.com
 www.sisterok.de
 www.s-j-ruppenthal.de
-www.sj-steyr.at
 www.skatess.cc
 www.skechers-ch.com
 www.skechersosterreich.at
@@ -14578,7 +14567,6 @@ www.vnr.de
 www.voc-zwettl.at
 www.vodplay.de
 www.vogelwild-coaching.de
-www.vogelzwitschern.at
 www.volina.de
 www.volksbank-notwendige-nachricht.com
 www.volly-sp.de
