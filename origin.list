@@ -33,9 +33,9 @@
 #    4 |    5465 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #    5 |    1420 | domains | local  | online  | unchanged | black.list.fake
 #    6 |    1383 | domains | local  | online  | unchanged | fake.ts.black.list
-#    7 |     481 | domains | local  | online  | unchanged | fake.vzni.black.list
+#    7 |     482 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
-# 14840 unique Domains
+# 14844 unique Domains
 #
 1000gratisproben.com
 100percentfedup.com
@@ -116,6 +116,7 @@ aclickysoft.com
 acnetzteil.com
 active-homes.com
 active-location.com
+activistpost.com
 actualidadpanamericana.com
 actualidad.rt.com
 adamscountytimes.com
@@ -1642,6 +1643,7 @@ drei.to
 dresscodoff.ru
 dresse.at
 dressfirst.com
+dresslily.com
 dressyin.de
 dr-estate.com
 drevalg.com
@@ -7448,6 +7450,7 @@ www.aclickysoft.com
 www.acnetzteil.com
 www.active-homes.com
 www.active-location.com
+www.activistpost.com
 www.actualidadpanamericana.com
 www.adamscountytimes.com
 www.adareporter.com
@@ -8927,6 +8930,7 @@ www.drei.to
 www.dresscodoff.ru
 www.dresse.at
 www.dressfirst.com
+www.dresslily.com
 www.dressyin.de
 www.dr-estate.com
 www.drevalg.com
