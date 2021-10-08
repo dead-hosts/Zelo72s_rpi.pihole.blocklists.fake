@@ -27,13 +27,13 @@
 # --------------------------------------------
 #
 #   Nr |   Count | Format  | Source | Status  | File      | URL/File
-#    1 |    2197 | hosts   | http   | online  | changed   | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
-#    2 |     252 | domains | http   | online  | changed   | https://assets.windscribe.com/custom_blocklists/clickbait.txt
-#    3 |    1483 | domains | http   | online  | changed   | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
-#    4 |    5465 | domains | http   | online  | changed   | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-#    5 |    1420 | domains | local  | online  | changed   | black.list.fake
-#    6 |    1383 | domains | local  | online  | changed   | fake.ts.black.list
-#    7 |     482 | domains | local  | online  | changed   | fake.vzni.black.list
+#    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
+#    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
+#    3 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
+#    4 |    5465 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+#    5 |    1420 | domains | local  | online  | unchanged | black.list.fake
+#    6 |    1383 | domains | local  | online  | unchanged | fake.ts.black.list
+#    7 |     482 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
 # 14842 unique Domains
 #
