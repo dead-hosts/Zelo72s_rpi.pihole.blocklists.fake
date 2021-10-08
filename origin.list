@@ -33,9 +33,9 @@
 #    4 |    5465 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #    5 |    1420 | domains | local  | online  | unchanged | black.list.fake
 #    6 |    1383 | domains | local  | online  | unchanged | fake.ts.black.list
-#    7 |     482 | domains | local  | online  | unchanged | fake.vzni.black.list
+#    7 |     487 | domains | local  | online  | changed   | fake.vzni.black.list
 #
-# 14842 unique Domains
+# 14848 unique Domains
 #
 1000gratisproben.com
 100percentfedup.com
@@ -464,6 +464,7 @@ babanora.com
 babaroni.de
 babbien.com
 babybubblestore.com
+bach24.net
 bacher-fachhandel.net
 back-attack.de
 backen-torte.de
@@ -2779,6 +2780,7 @@ haushaltsideal.de
 haushaltsjokel.de
 haushaltskoenig.de
 haushaltsreich.de
+haushaltswaren-mangold.net
 haus-media.de
 hausmeile.de
 hausstelen.de
@@ -4203,6 +4205,7 @@ morifun.com
 morio-media.com
 morrisleader.com
 morristowntimes.com
+mosano.de
 moser-24.at
 moseslaketoday.com
 mosetravel.de
@@ -7789,6 +7792,7 @@ www.babanora.com
 www.babaroni.de
 www.babbien.com
 www.babybubblestore.com
+www.bach24.net
 www.bacher-fachhandel.net
 www.back-attack.de
 www.backen-torte.de
@@ -10042,6 +10046,7 @@ www.haushaltsideal.de
 www.haushaltsjokel.de
 www.haushaltskoenig.de
 www.haushaltsreich.de
+www.haushaltswaren-mangold.net
 www.haus-media.de
 www.hausmeile.de
 www.hausstelen.de
@@ -11433,6 +11438,7 @@ www.morifun.com
 www.morio-media.com
 www.morrisleader.com
 www.morristowntimes.com
+www.mosano.de
 www.moser-24.at
 www.moseslaketoday.com
 www.mosetravel.de
