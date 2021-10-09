@@ -30,12 +30,12 @@
 #    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 #    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
 #    3 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
-#    4 |    5585 | domains | http   | online  | changed   | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+#    4 |    5585 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #    5 |    1420 | domains | local  | online  | unchanged | black.list.fake
 #    6 |    1383 | domains | local  | online  | unchanged | fake.ts.black.list
 #    7 |     487 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
-# 14333 unique Domains
+# 14325 unique Domains
 #
 1000gratisproben.com
 100percentfedup.com
@@ -1326,7 +1326,6 @@ dailynewsbin.com
 dailynewsposts.info
 dailyoccupation.com
 dailypostfeed.com
-dailysquib.co.uk
 dailystormer.com
 dailywish43.com
 dakotatimes.com
@@ -1411,7 +1410,6 @@ dein-elektronik24.de
 dein-elektroshop.de
 deine-modewelt.com
 deinfashionparadies.de
-dein-huettenurlaub.de
 deinkuechenbedarf.de
 deinlieblingstier.com
 deinrad24.de
@@ -4758,7 +4756,6 @@ pennrecord.com
 pensacolatimes.com
 pension-heuhexe.de
 pensions.news
-peoplemagazine.co.za
 peoriastandard.com
 peppesbutik.se
 perfectclub.shop
@@ -6157,10 +6154,8 @@ thecommonsenseshow.com
 thecontroversialfiles.net
 thecrypto-genius.net
 thedailybell.com
-thedailymash.co.uk
 thedailysheeple.com
 thedcgazette.com
-theearthchild.co.za
 theeconomiccollapseblog.com
 theeventchronicle.com
 thefederalistpapers.org
@@ -6214,7 +6209,6 @@ theonlinewealthbuilders.com
 theordinaryme.de
 thephones.net
 thephotostick.com
-thepoke.co.uk
 thepoliticalinsider.com
 theportlygazelle.com
 theracketreport.com
@@ -6235,7 +6229,6 @@ thesconi.com
 thesecretdate.at
 thesecretdate.de
 thesecretedate.com
-theshovel.com.au
 theskunk.org
 thesleuthjournal.com
 thesoleuniverse.com
@@ -8460,7 +8453,6 @@ www.dein-elektronik24.de
 www.dein-elektroshop.de
 www.deine-modewelt.com
 www.deinfashionparadies.de
-www.dein-huettenurlaub.de
 www.deinkuechenbedarf.de
 www.deinlieblingstier.com
 www.deinrad24.de
