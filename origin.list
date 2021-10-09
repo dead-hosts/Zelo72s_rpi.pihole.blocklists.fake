@@ -30,12 +30,12 @@
 #    1 |    2197 | hosts   | http   | online  | unchanged | https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 #    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
 #    3 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
-#    4 |    5465 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+#    4 |    5585 | domains | http   | online  | changed   | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #    5 |    1420 | domains | local  | online  | unchanged | black.list.fake
 #    6 |    1383 | domains | local  | online  | unchanged | fake.ts.black.list
 #    7 |     487 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
-# 14093 unique Domains
+# 14333 unique Domains
 #
 1000gratisproben.com
 100percentfedup.com
@@ -150,6 +150,7 @@ afm-electronics.com
 africannewsupdates.com
 agentur-bang.de
 ag-europe.com
+agogland.top
 agru-paradis.com
 agsm.ch
 ah-niederfahrenhorst.de
@@ -232,6 +233,7 @@ alter48.fr
 alternativemediasyndicate.com
 alternzuhause.at
 altes-bahnhoefli.de
+althrowor.top
 altleft.news
 altoonatimes.com
 altraschuhe.de
@@ -302,7 +304,9 @@ anonymousnews.ru
 anotherdayintheempire.com
 antelopevalleytoday.com
 anthead.club
+anthia.top
 anticancer.news
+antiion.top
 antijob.me
 antik-ev.de
 antiwar.com
@@ -323,6 +327,7 @@ apothekeschweiz24.com
 appai.de
 app-associates.com
 appealady.com
+appearal.top
 appleiphoneunlock.uk
 appletogo.at
 approcket.pro
@@ -336,6 +341,7 @@ aqdixj.com
 aquaclean-das-original.de
 aquamax.at
 arabic.rt.com
+arborite.top
 arbusinessdaily.com
 arcazhmanj.com
 arceltaonline.com
@@ -368,6 +374,7 @@ ashlandreview.com
 ashlen.co
 asia-pacificresearch.com
 asicminerco.com
+asist.top
 askdrkan.com
 asleme.com
 aspartame.news
@@ -378,6 +385,7 @@ as-transport.org
 atakku.at
 atesco.de
 athensreporter.com
+athlerok.com
 atlanticcotimes.com
 atleisures.com
 atlienstore.com
@@ -468,6 +476,7 @@ baltimorecitywire.com
 baltimoregazette.com
 balzbambii.de
 bankgiroloterij.nl
+bankot.top
 baoanbdsg.com
 baolis.myshopify.com
 barackobama.news
@@ -554,6 +563,7 @@ bentontimes.com
 bentspud.com
 benzodiazepine-kaufen.com
 bercasa.de
+berghausoutlet.cc
 berkeleyleader.com
 berksconews.com
 berladod.com
@@ -607,6 +617,7 @@ better-bikes24.de
 better-fitness.com
 bettina-dagmara.de
 bewertung-abgeben-edelmetallshops.de
+beyondard.top
 beziehungskabarett.de
 beziehungspersoenlichkeit.de
 bez-posrednikow.pl
@@ -725,8 +736,10 @@ bold-estate.com
 boldmatters.de
 bolenso.de
 bolitrans.com
+boloen.top
 bolt-courier.com
 bomplay.de
+bonance.top
 bonnyin.at
 bonoplay.de
 bonviviale.shop
@@ -742,6 +755,7 @@ booplay.de
 bootsdeutschland.com
 bordertales.de
 bostonleader.com
+botanetic.top
 botmediaz.com
 botoplay.de
 boulder-dash-rocks.de
@@ -775,6 +789,7 @@ breitlingreplika.com
 brendmsk.ru
 brethrrenj.com
 brevardsun.com
+breviory.top
 bricksesale.com
 brickuranus.com
 bridgeporttimes.com
@@ -811,6 +826,7 @@ buffaloledger.com
 buffy.ch
 bugout.news
 bulkcarriers-markt.com
+bulliator.top
 bullusenet.de
 bumelnde.org
 bumptashop.com
@@ -863,6 +879,7 @@ cagliostroberlin.de
 caintv.com
 calaverasguide.com
 caledonia-ev.de
+calliize.top
 callmehats.com
 callthecops.net
 cambriatimes.com
@@ -894,6 +911,7 @@ carethy.at
 cargadgetss.com
 cargservicesdelnc.com
 carhirenice.co.uk
+carniess.top
 carola-stauche.de
 carrerah.com
 carrotuj.com
@@ -933,6 +951,7 @@ casuals.at
 casuals.ch
 catalia.de
 catan.pl
+cathety.top
 catholicmasslive.com
 catwebh.com
 cbds.news
@@ -1017,6 +1036,7 @@ cheapcharly.de
 cheap-michaelkors.in.net
 cheapmoncleruk.co.uk
 cheaponline2020.com
+cheapstoresale2021.com
 checkra1n-windows.com
 checkrain.com
 checkrain.org
@@ -1079,6 +1099,7 @@ cityworldnews.com
 civictribune.com
 civilwar.news
 cklinen.com
+claimoon.top
 clancyreport.com
 clarksschuhesale.com
 clarksvilletimes.com
@@ -1178,6 +1199,7 @@ computing.news
 conchovalleynews.com
 concordledger.com
 conistdom.com
+conolly.de
 consciouslifenews.com
 conservative101.com
 conservativebyte.com
@@ -1232,6 +1254,7 @@ countercurrentnews.com
 counterpsyops.com
 countryattire.at
 courier-go.com
+courit.top
 coverlastic.com
 cowgernation.com
 cozyp.at
@@ -1270,6 +1293,7 @@ cupidshops.com
 cupsandcurves.de
 cures.news
 curlycurler.de
+cutcy.top
 cuteclothy.com
 cutterfarm.de
 cvmaker.de
@@ -1322,6 +1346,7 @@ dangerousmedicine.com
 daniadirectlogs.com
 daniel-malorny.de
 dannispastelart.de
+danosplay.de
 daplay.de
 darkavenuev.com
 darkbodybuilding.net
@@ -1386,6 +1411,7 @@ dein-elektronik24.de
 dein-elektroshop.de
 deine-modewelt.com
 deinfashionparadies.de
+dein-huettenurlaub.de
 deinkuechenbedarf.de
 deinlieblingstier.com
 deinrad24.de
@@ -1491,6 +1517,7 @@ digitalmarkts.com
 digital-restock.com
 digitech-shop.com
 dillmann-elektro.com
+dioiocard.top
 direcasn.com
 directech.co
 directlogistics.com
@@ -1546,6 +1573,7 @@ donifly.com
 donovan.store
 donplay.de
 dooplay.de
+doortion.top
 dopeclicsq.com
 dorat.de
 dorchestertoday.com
@@ -1747,6 +1775,7 @@ elektro-fest.org
 elektro-geldsparer.com
 elektro-handel.store
 elektrohandler.com
+elektrohaus-schulze.de
 elektrohoppe.de
 elektro-house24.de
 elektro-kingz.de
@@ -1855,6 +1884,7 @@ environ.news
 eowo.de
 epages.de
 epa.news
+ephacious.top
 epnewswire.com
 equalitystatenews.com
 equsi0n.com
@@ -1879,6 +1909,7 @@ essentialoils.news
 estate-divine.com
 estate-go.com
 eubiofficial.com
+eu-class.com
 eu-first.com
 eugenics.news
 eupeta.store
@@ -1935,6 +1966,7 @@ express-kauf.com
 expresslogisticgroup.com
 express-schaedlingsbekaempfung.at
 expresstools.eu
+express-top-buy.com
 extinction.news
 extratopia.com
 extremepaidsurveys.com
@@ -2019,6 +2051,7 @@ fayettevilletoday.com
 fazzporn.top
 fbicorruption.news
 fcirlich.de
+fcp-herrenhaus.de
 fcpxlysn.com
 fdachdeck.com
 fdahealthnews.com
@@ -2111,6 +2144,7 @@ flixer.de
 flixhub.de
 flixtv.de
 flobamorata.com
+floorage.top
 florday.com
 floridaparishnews.com
 floridasunpost.com
@@ -2187,6 +2221,7 @@ freedommedianetwork.com
 freedom.news
 freedomoutpost.com
 freedownloadzone.com
+freeics.top
 freemobile24.de
 freemoviehq.com
 freemovienow.com
@@ -2200,6 +2235,7 @@ freizeitbetrieb-worms.de
 freshhoods.com
 fresh.news
 fresnoleader.com
+fricence.top
 fridaymash.com
 friedaskitchen.de
 friedlichesende.com
@@ -2256,6 +2292,7 @@ galesburgreporter.com
 galoplay.de
 galvaguide.com
 gamarex.de
+gamarkt.de
 game4future.com
 game-adventures.com
 gamecount.de
@@ -2321,6 +2358,7 @@ geanliy.com
 gearmall.co.uk
 geburtstags-ideen.de
 gecycles.com
+gedankenpolier.de
 gedichte-server.com
 gehalts-rechner.de
 geheimetreffen.ch
@@ -2513,6 +2551,7 @@ greenforladies.com
 greenhillsreporter.com
 greenlivingnews.com
 greenmountaintimes.com
+greenoon.top
 greensbororeporter.com
 green-shops.site
 greenvilleleader.com
@@ -2557,6 +2596,7 @@ gunstiges-angebot.com
 gunterundfinn.de
 gurukullame.com
 gusti-ledertaschen.de
+gustorium.top
 gutenberg-mode.de
 guterkauf.com
 guterkauf.com.de
@@ -2572,6 +2612,7 @@ haarpracht-clip.de
 haberfasher.com
 hadeery.com
 haden.at
+haemfier.top
 hahaloud.com
 haladavidl.com
 haleybaby.com
@@ -2613,6 +2654,7 @@ hanno-film.de
 hans-kray.de
 hansondirectory.com
 haothun.com
+happyetic.top
 happy-shopping.co
 happy-shopy.de
 happyvalleytimes.com
@@ -2652,6 +2694,7 @@ h-birds.store
 hdflix.de
 hdwelt.de
 healing-rock.de
+heally.top
 healthbenefitsf.com
 healthcoverage.news
 healthfirst.at
@@ -2663,6 +2706,7 @@ healthrangerscience.com
 healthscience.news
 healthycareandbeauty.com
 healthyworldhouse.com
+hearality.top
 heartdisease.news
 heart.news
 heathenwomen.com
@@ -2721,7 +2765,6 @@ hiltonheadreporter.com
 himalayankraft.in
 himaya.at
 hindstoday.com
-hipony.de
 hipwforum.com
 hisplay.de
 hitshe.com
@@ -2738,6 +2781,7 @@ hockerty.de
 hoerstern.at
 hokaoneoneosterreich.at
 holafancy.com
+holemann.de
 holidaypartner.co
 hollandreporter.com
 hollistercoaustria.at
@@ -2758,6 +2802,7 @@ homesweethome.de
 homesweetlaud.com
 homevaultv.com
 home-yet.de
+hominage.top
 hondrogel.com
 hondrogel.site
 honestmemories.com
@@ -2778,6 +2823,7 @@ hotelsinperm.ru
 hotels-in-riga.de
 hotelsinvienna.org
 hotelsofnewyorkcity.net
+hotless.top
 hotmp3download.com
 hotpremiumdate.de
 hotspringstimes.com
@@ -2939,6 +2985,7 @@ instametall.de
 insuranceratereporter.com
 insvive.com
 intaliof.com
+inteensi.com
 intellihub.com
 inteltey.com
 intercamping-grossbreitenbach.com
@@ -2962,6 +3009,7 @@ iphoneimei.net
 ipspdownload.com
 irenekleider.de
 irgendenner.de
+iridarium.top
 irisferber.de
 irishpubschleswig.de
 irishufology.net
@@ -2982,6 +3030,7 @@ itc-schwarz.de
 itecsure.com
 itmakessenseblog.com
 i-translogistics.com
+itudinfy.top
 iubqx.com
 iued.ch
 ivelay.com
@@ -3180,6 +3229,7 @@ kinox.su
 kintonpro.com
 kinzokusteel.com
 kirchenmusik-mhl.de
+kirchweih-info.de
 kistner-handel.de
 ki-storen.com
 kitchenware.at
@@ -3188,6 +3238,7 @@ kitsapreview.com
 kiweecases.com
 kizaro.de
 kkiste.io
+kkiste.rest
 kkiste.su
 kkmodern.com
 klabauterkids.de
@@ -3198,7 +3249,6 @@ klaratronik.de
 kleidbox.com
 kleincodiert.at
 kleine-freundin.com
-kleinerwaffenschein.de
 kleinesschaetzchen.de
 klempner-notdienst.net
 klever-kaffee.de
@@ -3243,6 +3293,7 @@ koreyo.de
 kornblumen.myshopify.com
 kors-outlet.com
 korzcloth.com
+kourhealth.com
 kperitia.com
 krabihotelsthailand.net
 kraemerhandel.com
@@ -3369,6 +3420,7 @@ legalnewsline.com
 lehightimes.com
 lehmann-versand.de
 lehrstellen-heute.com
+leipold-modehaus.de
 leitneraviation.at
 lenanena.com
 lenoma.ru
@@ -3388,6 +3440,7 @@ letscomfy.de
 letsgoshop.de
 letsgric.myshopify.com
 levas24.de
+levelably.top
 lewistontimes.com
 lexflix.de
 lfimicc.com
@@ -3494,6 +3547,7 @@ lonara.de
 lonestarstandard.com
 longevitysciencenews.com
 longviewtimes.com
+lookern.top
 lookslikesummer.com
 loomzo.com
 loosshy.com
@@ -3503,6 +3557,7 @@ lorana.de
 lorenz-kurreisen.de
 loridoris.com
 losplay.de
+lossive.top
 lotdi.com
 louisianarecord.com
 louisvillecitywire.com
@@ -3516,6 +3571,7 @@ lowerwestscnews.com
 lowpricemoncler.top
 lozano-agro-spedition.com
 lselloee.com
+lsoeanu.com
 lss-transport.com
 ls-works.de
 ltehnovar.com
@@ -3659,6 +3715,7 @@ maxnovelty.com
 maxunicard.com
 maxxdrinks.com
 maxximmedia24.de
+maybetion.top
 maybracht.net
 mayplay.de
 mayrhofen-hotels.at
@@ -3677,6 +3734,7 @@ mcrittter.com
 mdazoiptv.com
 mdbusinessdaily.com
 mdstatewire.com
+mechanit.top
 media-deals24.de
 mediafritz.com
 mediahardy.de
@@ -3770,6 +3828,7 @@ mercola.com
 meronia.de
 merrimackvalleynews.com
 merrylco.com
+meseither.top
 meshzss.com
 metallo24.de
 metalsme.com
@@ -3837,6 +3896,7 @@ milopuzzle.shop
 miltonvaleguide.com
 mimiplay.de
 mimty.de
+minarium.top
 mincil.de
 mindbodyscience.news
 mindcontrol.news
@@ -3852,6 +3912,7 @@ minneapolisreview.com
 minnesotastatewire.com
 minzos.de
 mirror-news.com
+miscesure.top
 misgift.de
 missbrauchhilfe.de
 misslook.com
@@ -3882,6 +3943,7 @@ mobiflix.de
 mobila-willhaben.at
 mobilecourant.com
 mobileklean.com
+mobile-wellnessoase.de
 mobilmondo.de
 mobplay.de
 mobusinessdaily.com
@@ -3996,6 +4058,7 @@ motiontutsr.com
 motoglobal-trucking.com
 moundridgeguide.com
 mountainstatetimes.com
+mountine.top
 move-forward-e-car.com
 movie4k.su
 moviedownloadworld.com
@@ -4409,6 +4472,7 @@ notebookakku.at
 notebookakkus.at
 notherr.com
 notinstallateur24h.at
+notoance.top
 novacosy.com
 nova-eu.com
 novaflix.de
@@ -4527,6 +4591,7 @@ oliver-schwarzer-shop.de
 olympictimes.com
 omaharecord.com
 omanhbi.com
+omenoward.top
 omertabike.com
 omniteamb.com
 omonyeselfcare.co
@@ -4568,6 +4633,7 @@ opioids.news
 optic-dias.ru
 optifinn.com
 options-1300.com
+orability.top
 orbusinessdaily.com
 orca-electronics.com
 orchair.top
@@ -4610,6 +4676,7 @@ oykqo.top
 oylerhof.de
 ozaukeetimes.com
 ozkart.com.au
+pachfold.top
 pacificexpressservice.com
 paedia.top
 pakalertpress.com
@@ -4623,9 +4690,11 @@ palmerreport.com
 palmertonguide.com
 palmettobusinessdaily.com
 palmettostatenews.com
+palustral.top
 pamelageller.com
 pamura.com
 panamacityreporter.com
+panamajackschweiz.com
 panamajackwien.at
 pandemic.news
 pandoracharmsausverkauf.de
@@ -4661,6 +4730,7 @@ patrickkager.at
 patriotnewsagency.com
 patriotrising.com
 patriotupdate.com
+paucot.top
 paulcraigroberts.org
 pawnature.de
 pawppithouse.com
@@ -4799,6 +4869,7 @@ plinkereule.de
 pltechsarl.top
 pluri-lec.com
 plymouthreporter.com
+pmade.top
 pmarebaja.online
 pmkbfx.com
 pnosetr.com
@@ -4938,18 +5009,23 @@ providencereporter.com
 proxysong.com
 prr-haulage.com
 pr-ruehle.de
+psamment.top
 pseweoeen.com
 psyges.de
+pteryess.top
 pthipv.com
 ptototesbs.com
+pugnwise.top
 puhotka.ru
 pulaskitimes.com
 pullach-evangelisch.de
 pulseur.top
 pumacredit.de
+puniatory.top
 punkrave.ch
 purelywave.com
 pureprefer.com
+purgable.top
 purgemacht.myshopify.com
 pushdryson.com
 pushup.at
@@ -4962,6 +5038,7 @@ qappleshop.com
 qenova.com
 qfucktalk.com
 qgripsearwax.com
+qinstaweb.com
 qiundgong.at
 qoqomarkt.com
 qpolitical.com
@@ -4985,7 +5062,9 @@ qxrorat.top
 raabeenq.com
 rabattdisney.com
 rabatteundcoupons.de
+racehood.top
 racerelations.news
+rachment.top
 racinesun.com
 radaflex.de
 radbekleidung4u.com
@@ -5005,6 +5084,7 @@ rainbeating.com
 ramonlabrador.de
 randolphcountynews.com
 random-markets.com
+rangeier.top
 ranoplay.de
 ranplay.de
 rapefugees.net
@@ -5049,6 +5129,7 @@ redstatewatcher.com
 redwoodempirenews.com
 reelnewsnetwork.com
 refortasev.com
+regardsq.com
 regated.com
 regenmantel24.de
 regional-fernsehen.com
@@ -5059,6 +5140,7 @@ reichwahl.de
 reidkanem.top
 reifen-market.com
 reiligs.de
+reinigungstrauss.de
 reisen-engler.de
 reiseweltat6.wixsite.com
 relaxify.de
@@ -5066,6 +5148,7 @@ religionmind.com
 remintive.com
 remoplay.de
 renegadetribune.com
+renery.top
 rennradbekleidung.com
 renoplay.de
 renoreporter.com
@@ -5102,6 +5185,7 @@ rhein-entree.de
 rheineule.de
 rhein-trends24.de
 rheinwing.de
+rheokth.top
 rhodeshotel24.com
 ribusinessdaily.com
 ricadihotelspage.com
@@ -5117,6 +5201,7 @@ richtigwillig.ch
 richtigwillig.de
 rickwells.us
 ride-a-bike.club
+ridero-bikes.uk
 ridiculously.com
 riege-bonbonladenundfeines.de
 rightwingnews.com
@@ -5131,6 +5216,7 @@ riverfront.at
 riverparishnews.com
 riverregiontimes.com
 rivervalleytoday.com
+rjanujanu.top
 rkzhb.com
 rnthaulage.com
 roanokesun.com
@@ -5145,6 +5231,7 @@ rockinghamtimes.com
 rockislandtoday.com
 rockkelp.com
 rocklandreporter.com
+rockseedz.com
 rockymounttoday.com
 rocolee.com
 rodoplay.de
@@ -5179,6 +5266,7 @@ rosiecutie.com
 rosiesdaily.com
 rossoo.de
 rostary.com
+rostiza.com
 rotbarschfilet.de
 rothause.de
 roumite.com
@@ -5193,6 +5281,7 @@ royalkitten.at
 royaloop.com
 royalpomskyhome.com
 rsotecpro.com
+rtamgan.top
 rtd.rt.com
 rubuplay.de
 rubycloth.com
@@ -5204,6 +5293,7 @@ ruptly.tv
 rushmorestatenews.com
 russia-direct.org
 russia-insider.com
+rustarium.top
 rutherfordtimes.com
 rww-minis.de
 ryjalew.com
@@ -5228,8 +5318,10 @@ saitnewsj.com
 sakvii.com
 salemnewswire.com
 sallofino.de
+saltar.top
 salzmann-c.at
 sama-logistic.com
+sameform.top
 samemoli.com
 samsfoon.eu
 samuel-warde.com
@@ -5282,6 +5374,7 @@ scharhoern.de
 schatzauge.de
 schaumstoffwelt.de
 scheuregger.de
+schirdewahn-autorin.de
 schlafewo.de
 schlafhimmelshop.de
 schlaftabletten-ohne-rezept.com
@@ -5371,6 +5464,7 @@ sehen-staunen-erleben.de
 sehoustonnews.com
 sehrruhig.de
 seib-service.de
+seiety.top
 seillinoisnews.com
 seindiananews.com
 seiowanews.com
@@ -5432,11 +5526,13 @@ sevegasnews.com
 sewashingtonnews.com
 sewyomingnews.com
 sfvtoday.com
+sgdsuaadah.ru
 sg-host.com
 sgvstandard.com
 shafa.ua
 shaplay.de
 sharedmovies.com
+sharifbagb.com
 sharopink.com
 shauntapparel.com
 sheadora.com
@@ -5490,6 +5586,7 @@ shoppingsmart.store
 shoppome.info
 shoprado.de
 shoprosada.com
+shotary.top
 showmestatetimes.com
 shreveportreporter.com
 shtf.news
@@ -5546,6 +5643,7 @@ smartbuyglasses.at
 smartfit-pro.de
 smart-market-online.com
 smartmeters.news
+smartselektronik.com
 smartstech24.online
 smart-tech48.space
 smatam.com
@@ -5743,6 +5841,7 @@ spring-express.com
 springfieldrecord.com
 springfieldstandard.com
 springstimes.com
+spuical.top
 spurguide.com
 spyder-outlet.com
 squraei.com
@@ -5754,6 +5853,7 @@ stammeskleidung.de
 stancery.com
 stanclara.com
 stanislausnews.com
+staplay.de
 starbuckswatch.news
 starelax.com
 stargatev.com
@@ -5771,7 +5871,9 @@ steen-text.de
 steiger-elektronik.de
 steinmusic-store.com
 steinstore24.de
+stelplay.de
 stepsclubg.com
+stereoise.top
 sterilize-x.com
 sternenschreiter.de
 sternestd.de
@@ -5818,6 +5920,7 @@ streamonlinemovies.com
 streamore.de
 streamtime.de
 stromboli-asi.at
+strongy.top
 studioy.de
 studyzones.com
 stunt-team.at
@@ -5863,6 +5966,7 @@ superfitchaussures.fr
 superfoods.news
 superpostalservice.com
 superschuhenwelt.de.com
+supership.top
 supersocken.de
 supersofabezug.com
 superstation95.com
@@ -5927,6 +6031,7 @@ szyciemamy.top
 t500track18.com
 t7cafe.de
 tabflix.de
+tableify.top
 tablet-restposten.club
 tablet-restposten.shop
 tacocood.com
@@ -5977,6 +6082,7 @@ technikcenter-deutschland.de
 technik-doku-design.de
 technikexpress24.de
 technikfusion.de
+technikhood.shop
 technik-schnaeppchen-shop.de
 technik-versand.website
 technocrats.news
@@ -6005,6 +6111,7 @@ tennisvillase.com
 tepffd.com
 tepwise.top
 terkos.de
+ternsome.top
 terrific.de
 tesdola.com
 tesento.com
@@ -6020,6 +6127,7 @@ tevlaria-elektra.com
 texaniuml.top
 texasbusinesscoalition.com
 thailights.de
+thai-massage-winsen.de
 thaisawadee.de
 thanvi.de
 thayajewels.com
@@ -6079,6 +6187,8 @@ the-leather-shop.com
 thelen-sport.de
 thelibertybeacon.com
 thelightshirt.online
+thelike.top
+thelsure.top
 thelucybra.com
 themarshallreport.wordpress.com
 themichaelkorsoutlet.com
@@ -6158,6 +6268,7 @@ thomassabosuk.com
 thomeifoods.com
 thorshipping.net
 thoughtoffense.wordpress.com
+thoughy.top
 threepercenternation.com
 thuglifevideos.com
 thumbreporter.com
@@ -6169,6 +6280,7 @@ tierliebeshop.com
 tier-wellness.at
 tikshopf.com
 tilasnewsl.com
+tilidin-kaufen.com
 tilintalang.com
 timberlandrakuten.com
 timberlands-onlineshop.de
@@ -6232,6 +6344,7 @@ topado.shop
 topamarkt.de
 topanyso.com
 top-apotheke.com
+toparian.top
 topekasnews.com
 topekasun.com
 toperuecken.com
@@ -6562,6 +6675,7 @@ vdd-osnabrueck.de
 vdk-lichtenfels.de
 vds-delivery.net
 veganfoodie.de
+vejaaustria.at
 vejasneaker.at
 velenza.de
 veloberlin.de
@@ -6620,6 +6734,8 @@ videokaarten.eu
 viennaapartments.org
 vierkantlager.de
 vik28.alivebuilder.com
+vilible.top
+vilis-elektronik.de
 villarrica.de
 villena.de
 villena.shop
@@ -6633,7 +6749,6 @@ violta.de
 violta.net
 vionicdeutschland.de
 vipkickz.com
-viprawoods.com
 viralactions.com
 viralcocaine.com
 viraldevil.com
@@ -6696,6 +6811,7 @@ vs-logistics.eu
 vsmee.com
 vtbusinessdaily.com
 vtecnokar.com
+vulpfold.top
 vunir.de
 vunol.de
 vupkurs.com
@@ -6709,6 +6825,7 @@ wadeviewparknews.com
 wagner-schwarzenberg.de
 wagner-versandhaus.de
 wagplay.de
+wahldate.de
 waifairy.com
 waislenews.com
 wakesurf.at
@@ -6889,6 +7006,7 @@ wherelinen.com
 where-to-surf.co.uk
 whfguxz.top
 wh-handelshaus.com
+whilester.top
 whitehouse.news
 whiteningbrites.com
 whitepower.com
@@ -6909,6 +7027,7 @@ wien-buero.at
 wienermassivhaus.at
 wien-geht-aus.at
 wiesmueller-waerme.de
+wikelski.com
 wiki4diy.com
 wikispooks.com
 wikomarkt.com
@@ -7116,6 +7235,7 @@ www.afm-electronics.com
 www.africannewsupdates.com
 www.agentur-bang.de
 www.ag-europe.com
+www.agogland.top
 www.agru-paradis.com
 www.agsm.ch
 www.ah-niederfahrenhorst.de
@@ -7197,6 +7317,7 @@ www.alter48.fr
 www.alternativemediasyndicate.com
 www.alternzuhause.at
 www.altes-bahnhoefli.de
+www.althrowor.top
 www.altleft.news
 www.altoonatimes.com
 www.altraschuhe.de
@@ -7267,7 +7388,9 @@ www.anonymousnews.ru
 www.anotherdayintheempire.com
 www.antelopevalleytoday.com
 www.anthead.club
+www.anthia.top
 www.anticancer.news
+www.antiion.top
 www.antijob.me
 www.antik-ev.de
 www.antiwar.com
@@ -7288,6 +7411,7 @@ www.apothekeschweiz24.com
 www.appai.de
 www.app-associates.com
 www.appealady.com
+www.appearal.top
 www.appleiphoneunlock.uk
 www.appletogo.at
 www.approcket.pro
@@ -7299,6 +7423,7 @@ www.aprs-karlsruhe.de
 www.aqdixj.com
 www.aquaclean-das-original.de
 www.aquamax.at
+www.arborite.top
 www.arbusinessdaily.com
 www.arcazhmanj.com
 www.arceltaonline.com
@@ -7330,6 +7455,7 @@ www.ashlandreview.com
 www.ashlen.co
 www.asia-pacificresearch.com
 www.asicminerco.com
+www.asist.top
 www.askdrkan.com
 www.asleme.com
 www.aspartame.news
@@ -7340,6 +7466,7 @@ www.as-transport.org
 www.atakku.at
 www.atesco.de
 www.athensreporter.com
+www.athlerok.com
 www.atlanticcotimes.com
 www.atleisures.com
 www.atlienstore.com
@@ -7429,6 +7556,7 @@ www.baltimorecitywire.com
 www.baltimoregazette.com
 www.balzbambii.de
 www.bankgiroloterij.nl
+www.bankot.top
 www.baoanbdsg.com
 www.barackobama.news
 www.baragaguide.com
@@ -7513,6 +7641,7 @@ www.bentontimes.com
 www.bentspud.com
 www.benzodiazepine-kaufen.com
 www.bercasa.de
+www.berghausoutlet.cc
 www.berkeleyleader.com
 www.berksconews.com
 www.berladod.com
@@ -7562,6 +7691,7 @@ www.better-bikes24.de
 www.better-fitness.com
 www.bettina-dagmara.de
 www.bewertung-abgeben-edelmetallshops.de
+www.beyondard.top
 www.beziehungskabarett.de
 www.beziehungspersoenlichkeit.de
 www.bez-posrednikow.pl
@@ -7676,8 +7806,10 @@ www.bold-estate.com
 www.boldmatters.de
 www.bolenso.de
 www.bolitrans.com
+www.boloen.top
 www.bolt-courier.com
 www.bomplay.de
+www.bonance.top
 www.bonnyin.at
 www.bonoplay.de
 www.bonviviale.shop
@@ -7693,6 +7825,7 @@ www.booplay.de
 www.bootsdeutschland.com
 www.bordertales.de
 www.bostonleader.com
+www.botanetic.top
 www.botmediaz.com
 www.botoplay.de
 www.boulder-dash-rocks.de
@@ -7726,6 +7859,7 @@ www.breitlingreplika.com
 www.brendmsk.ru
 www.brethrrenj.com
 www.brevardsun.com
+www.breviory.top
 www.bricksesale.com
 www.brickuranus.com
 www.bridgeporttimes.com
@@ -7762,6 +7896,7 @@ www.buffaloledger.com
 www.buffy.ch
 www.bugout.news
 www.bulkcarriers-markt.com
+www.bulliator.top
 www.bullusenet.de
 www.bumelnde.org
 www.bumptashop.com
@@ -7812,6 +7947,7 @@ www.cagliostroberlin.de
 www.caintv.com
 www.calaverasguide.com
 www.caledonia-ev.de
+www.calliize.top
 www.callmehats.com
 www.callthecops.net
 www.cambriatimes.com
@@ -7842,6 +7978,7 @@ www.carbondioxide.news
 www.carethy.at
 www.cargadgetss.com
 www.cargservicesdelnc.com
+www.carniess.top
 www.carola-stauche.de
 www.carrerah.com
 www.carrotuj.com
@@ -7880,6 +8017,7 @@ www.casuals.at
 www.casuals.ch
 www.catalia.de
 www.catan.pl
+www.cathety.top
 www.catholicmasslive.com
 www.catwebh.com
 www.cbds.news
@@ -7959,6 +8097,7 @@ www.cheap123.ru
 www.cheapbagmalluk.cn
 www.cheapcharly.de
 www.cheaponline2020.com
+www.cheapstoresale2021.com
 www.checkra1n-windows.com
 www.checkrain.com
 www.checkrain.org
@@ -8019,6 +8158,7 @@ www.cityworldnews.com
 www.civictribune.com
 www.civilwar.news
 www.cklinen.com
+www.claimoon.top
 www.clancyreport.com
 www.clarksschuhesale.com
 www.clarksvilletimes.com
@@ -8114,6 +8254,7 @@ www.computing.news
 www.conchovalleynews.com
 www.concordledger.com
 www.conistdom.com
+www.conolly.de
 www.consciouslifenews.com
 www.conservative101.com
 www.conservativebyte.com
@@ -8166,6 +8307,7 @@ www.countercurrentnews.com
 www.counterpsyops.com
 www.countryattire.at
 www.courier-go.com
+www.courit.top
 www.coverlastic.com
 www.cowgernation.com
 www.cozyp.at
@@ -8204,6 +8346,7 @@ www.cupidshops.com
 www.cupsandcurves.de
 www.cures.news
 www.curlycurler.de
+www.cutcy.top
 www.cuteclothy.com
 www.cutterfarm.de
 www.cvmaker.de
@@ -8255,6 +8398,7 @@ www.dangerousmedicine.com
 www.daniadirectlogs.com
 www.daniel-malorny.de
 www.dannispastelart.de
+www.danosplay.de
 www.daplay.de
 www.darkavenuev.com
 www.darkbodybuilding.net
@@ -8316,6 +8460,7 @@ www.dein-elektronik24.de
 www.dein-elektroshop.de
 www.deine-modewelt.com
 www.deinfashionparadies.de
+www.dein-huettenurlaub.de
 www.deinkuechenbedarf.de
 www.deinlieblingstier.com
 www.deinrad24.de
@@ -8415,6 +8560,7 @@ www.digitalmarkts.com
 www.digital-restock.com
 www.digitech-shop.com
 www.dillmann-elektro.com
+www.dioiocard.top
 www.direcasn.com
 www.directech.co
 www.directlogistics.com
@@ -8469,6 +8615,7 @@ www.donifly.com
 www.donovan.store
 www.donplay.de
 www.dooplay.de
+www.doortion.top
 www.dopeclicsq.com
 www.dorat.de
 www.dorchestertoday.com
@@ -8668,6 +8815,7 @@ www.elektro-fest.org
 www.elektro-geldsparer.com
 www.elektro-handel.store
 www.elektrohandler.com
+www.elektrohaus-schulze.de
 www.elektrohoppe.de
 www.elektro-house24.de
 www.elektro-kingz.de
@@ -8776,6 +8924,7 @@ www.environ.news
 www.eowo.de
 www.epages.de
 www.epa.news
+www.ephacious.top
 www.epnewswire.com
 www.equalitystatenews.com
 www.equsi0n.com
@@ -8800,6 +8949,7 @@ www.essentialoils.news
 www.estate-divine.com
 www.estate-go.com
 www.eubiofficial.com
+www.eu-class.com
 www.eu-first.com
 www.eugenics.news
 www.eupeta.store
@@ -8852,6 +9002,7 @@ www.express-kauf.com
 www.expresslogisticgroup.com
 www.express-schaedlingsbekaempfung.at
 www.expresstools.eu
+www.express-top-buy.com
 www.extinction.news
 www.extratopia.com
 www.extremepaidsurveys.com
@@ -8934,6 +9085,7 @@ www.fayettevilletoday.com
 www.fazzporn.top
 www.fbicorruption.news
 www.fcirlich.de
+www.fcp-herrenhaus.de
 www.fcpxlysn.com
 www.fdachdeck.com
 www.fdahealthnews.com
@@ -9026,6 +9178,7 @@ www.flixer.de
 www.flixhub.de
 www.flixtv.de
 www.flobamorata.com
+www.floorage.top
 www.florday.com
 www.floridaparishnews.com
 www.floridasunpost.com
@@ -9099,6 +9252,7 @@ www.freedommedianetwork.com
 www.freedom.news
 www.freedomoutpost.com
 www.freedownloadzone.com
+www.freeics.top
 www.freemobile24.de
 www.freemoviehq.com
 www.freemovienow.com
@@ -9111,6 +9265,7 @@ www.freizeitbetrieb-worms.de
 www.freshhoods.com
 www.fresh.news
 www.fresnoleader.com
+www.fricence.top
 www.fridaymash.com
 www.friedaskitchen.de
 www.friedlichesende.com
@@ -9166,6 +9321,7 @@ www.galesburgreporter.com
 www.galoplay.de
 www.galvaguide.com
 www.gamarex.de
+www.gamarkt.de
 www.game4future.com
 www.game-adventures.com
 www.gamecount.de
@@ -9229,6 +9385,7 @@ www.gdetivtope.com
 www.geanliy.com
 www.geburtstags-ideen.de
 www.gecycles.com
+www.gedankenpolier.de
 www.gedichte-server.com
 www.gehalts-rechner.de
 www.geheimetreffen.ch
@@ -9417,6 +9574,7 @@ www.greenforladies.com
 www.greenhillsreporter.com
 www.greenlivingnews.com
 www.greenmountaintimes.com
+www.greenoon.top
 www.greensbororeporter.com
 www.green-shops.site
 www.greenvilleleader.com
@@ -9458,6 +9616,7 @@ www.gunstiges-angebot.com
 www.gunterundfinn.de
 www.gurukullame.com
 www.gusti-ledertaschen.de
+www.gustorium.top
 www.gutenberg-mode.de
 www.guterkauf.com
 www.gutesbestes.com
@@ -9472,6 +9631,7 @@ www.haarpracht-clip.de
 www.haberfasher.com
 www.hadeery.com
 www.haden.at
+www.haemfier.top
 www.hahaloud.com
 www.haladavidl.com
 www.haleybaby.com
@@ -9512,6 +9672,7 @@ www.hanno-film.de
 www.hans-kray.de
 www.hansondirectory.com
 www.haothun.com
+www.happyetic.top
 www.happy-shopping.co
 www.happy-shopy.de
 www.happyvalleytimes.com
@@ -9551,6 +9712,7 @@ www.h-birds.store
 www.hdflix.de
 www.hdwelt.de
 www.healing-rock.de
+www.heally.top
 www.healthbenefitsf.com
 www.healthcoverage.news
 www.healthfirst.at
@@ -9562,6 +9724,7 @@ www.healthrangerscience.com
 www.healthscience.news
 www.healthycareandbeauty.com
 www.healthyworldhouse.com
+www.hearality.top
 www.heartdisease.news
 www.heart.news
 www.heathenwomen.com
@@ -9620,7 +9783,6 @@ www.hiltonheadreporter.com
 www.himalayankraft.in
 www.himaya.at
 www.hindstoday.com
-www.hipony.de
 www.hipwforum.com
 www.hisplay.de
 www.hitshe.com
@@ -9637,6 +9799,7 @@ www.hockerty.de
 www.hoerstern.at
 www.hokaoneoneosterreich.at
 www.holafancy.com
+www.holemann.de
 www.holidaypartner.co
 www.hollandreporter.com
 www.hollistercoaustria.at
@@ -9656,6 +9819,7 @@ www.homesweethome.de
 www.homesweetlaud.com
 www.homevaultv.com
 www.home-yet.de
+www.hominage.top
 www.hondrogel.com
 www.hondrogel.site
 www.honestmemories.com
@@ -9675,6 +9839,7 @@ www.hotelsinperm.ru
 www.hotels-in-riga.de
 www.hotelsinvienna.org
 www.hotelsofnewyorkcity.net
+www.hotless.top
 www.hotmp3download.com
 www.hotpremiumdate.de
 www.hotspringstimes.com
@@ -9833,6 +9998,7 @@ www.instametall.de
 www.insuranceratereporter.com
 www.insvive.com
 www.intaliof.com
+www.inteensi.com
 www.intellihub.com
 www.inteltey.com
 www.intercamping-grossbreitenbach.com
@@ -9856,6 +10022,7 @@ www.iphoneimei.net
 www.ipspdownload.com
 www.irenekleider.de
 www.irgendenner.de
+www.iridarium.top
 www.irisferber.de
 www.irishpubschleswig.de
 www.irishufology.net
@@ -9876,6 +10043,7 @@ www.itc-schwarz.de
 www.itecsure.com
 www.itmakessenseblog.com
 www.i-translogistics.com
+www.itudinfy.top
 www.iubqx.com
 www.iued.ch
 www.ivelay.com
@@ -10071,6 +10239,7 @@ www.kinox.su
 www.kintonpro.com
 www.kinzokusteel.com
 www.kirchenmusik-mhl.de
+www.kirchweih-info.de
 www.kistner-handel.de
 www.ki-storen.com
 www.kitchenware.at
@@ -10079,6 +10248,7 @@ www.kitsapreview.com
 www.kiweecases.com
 www.kizaro.de
 www.kkiste.io
+www.kkiste.rest
 www.kkiste.su
 www.kkmodern.com
 www.klabauterkids.de
@@ -10089,7 +10259,6 @@ www.klaratronik.de
 www.kleidbox.com
 www.kleincodiert.at
 www.kleine-freundin.com
-www.kleinerwaffenschein.de
 www.kleinesschaetzchen.de
 www.klempner-notdienst.net
 www.klever-kaffee.de
@@ -10132,6 +10301,7 @@ www.koretrak.kaufen
 www.koreyo.de
 www.kors-outlet.com
 www.korzcloth.com
+www.kourhealth.com
 www.kperitia.com
 www.krabihotelsthailand.net
 www.kraemerhandel.com
@@ -10256,6 +10426,7 @@ www.legalnewsline.com
 www.lehightimes.com
 www.lehmann-versand.de
 www.lehrstellen-heute.com
+www.leipold-modehaus.de
 www.leitneraviation.at
 www.lenanena.com
 www.lenoma.ru
@@ -10274,6 +10445,7 @@ www.letoucan.ch
 www.letscomfy.de
 www.letsgoshop.de
 www.levas24.de
+www.levelably.top
 www.lewistontimes.com
 www.lexflix.de
 www.lfimicc.com
@@ -10377,6 +10549,7 @@ www.lonara.de
 www.lonestarstandard.com
 www.longevitysciencenews.com
 www.longviewtimes.com
+www.lookern.top
 www.lookslikesummer.com
 www.loomzo.com
 www.loosshy.com
@@ -10386,6 +10559,7 @@ www.lorana.de
 www.lorenz-kurreisen.de
 www.loridoris.com
 www.losplay.de
+www.lossive.top
 www.lotdi.com
 www.louisianarecord.com
 www.louisvillecitywire.com
@@ -10399,6 +10573,7 @@ www.lowerwestscnews.com
 www.lowpricemoncler.top
 www.lozano-agro-spedition.com
 www.lselloee.com
+www.lsoeanu.com
 www.lss-transport.com
 www.ls-works.de
 www.ltehnovar.com
@@ -10541,6 +10716,7 @@ www.maxnovelty.com
 www.maxunicard.com
 www.maxxdrinks.com
 www.maxximmedia24.de
+www.maybetion.top
 www.maybracht.net
 www.mayplay.de
 www.mayrhofen-hotels.at
@@ -10559,6 +10735,7 @@ www.mcrittter.com
 www.mdazoiptv.com
 www.mdbusinessdaily.com
 www.mdstatewire.com
+www.mechanit.top
 www.media-deals24.de
 www.mediafritz.com
 www.mediahardy.de
@@ -10651,6 +10828,7 @@ www.mercola.com
 www.meronia.de
 www.merrimackvalleynews.com
 www.merrylco.com
+www.meseither.top
 www.meshzss.com
 www.metallo24.de
 www.metalsme.com
@@ -10707,6 +10885,7 @@ www.milopuzzle.shop
 www.miltonvaleguide.com
 www.mimiplay.de
 www.mimty.de
+www.minarium.top
 www.mincil.de
 www.mindbodyscience.news
 www.mindcontrol.news
@@ -10722,6 +10901,7 @@ www.minneapolisreview.com
 www.minnesotastatewire.com
 www.minzos.de
 www.mirror-news.com
+www.miscesure.top
 www.misgift.de
 www.missbrauchhilfe.de
 www.misslook.com
@@ -10752,6 +10932,7 @@ www.mobiflix.de
 www.mobila-willhaben.at
 www.mobilecourant.com
 www.mobileklean.com
+www.mobile-wellnessoase.de
 www.mobilmondo.de
 www.mobplay.de
 www.mobusinessdaily.com
@@ -10862,6 +11043,7 @@ www.motiontutsr.com
 www.motoglobal-trucking.com
 www.moundridgeguide.com
 www.mountainstatetimes.com
+www.mountine.top
 www.move-forward-e-car.com
 www.movie4k.su
 www.moviedownloadworld.com
@@ -11269,6 +11451,7 @@ www.notebookakku.at
 www.notebookakkus.at
 www.notherr.com
 www.notinstallateur24h.at
+www.notoance.top
 www.novacosy.com
 www.nova-eu.com
 www.novaflix.de
@@ -11385,6 +11568,7 @@ www.oliver-schwarzer-shop.de
 www.olympictimes.com
 www.omaharecord.com
 www.omanhbi.com
+www.omenoward.top
 www.omertabike.com
 www.omniteamb.com
 www.omonyeselfcare.co
@@ -11425,6 +11609,7 @@ www.opioids.news
 www.optic-dias.ru
 www.optifinn.com
 www.options-1300.com
+www.orability.top
 www.orbusinessdaily.com
 www.orca-electronics.com
 www.orchair.top
@@ -11463,6 +11648,7 @@ www.oxzibyte.com
 www.oykqo.top
 www.oylerhof.de
 www.ozaukeetimes.com
+www.pachfold.top
 www.pacificexpressservice.com
 www.paedia.top
 www.pakalertpress.com
@@ -11476,9 +11662,11 @@ www.palmerreport.com
 www.palmertonguide.com
 www.palmettobusinessdaily.com
 www.palmettostatenews.com
+www.palustral.top
 www.pamelageller.com
 www.pamura.com
 www.panamacityreporter.com
+www.panamajackschweiz.com
 www.panamajackwien.at
 www.pandemic.news
 www.pandoracharmsausverkauf.de
@@ -11513,6 +11701,7 @@ www.patrickkager.at
 www.patriotnewsagency.com
 www.patriotrising.com
 www.patriotupdate.com
+www.paucot.top
 www.paulcraigroberts.org
 www.pawnature.de
 www.pawppithouse.com
@@ -11648,6 +11837,7 @@ www.plinkereule.de
 www.pltechsarl.top
 www.pluri-lec.com
 www.plymouthreporter.com
+www.pmade.top
 www.pmarebaja.online
 www.pmkbfx.com
 www.pnosetr.com
@@ -11784,18 +11974,23 @@ www.providencereporter.com
 www.proxysong.com
 www.prr-haulage.com
 www.pr-ruehle.de
+www.psamment.top
 www.pseweoeen.com
 www.psyges.de
+www.pteryess.top
 www.pthipv.com
 www.ptototesbs.com
+www.pugnwise.top
 www.puhotka.ru
 www.pulaskitimes.com
 www.pullach-evangelisch.de
 www.pulseur.top
 www.pumacredit.de
+www.puniatory.top
 www.punkrave.ch
 www.purelywave.com
 www.pureprefer.com
+www.purgable.top
 www.pushdryson.com
 www.pushup.at
 www.pushup-bh.at
@@ -11807,6 +12002,7 @@ www.qappleshop.com
 www.qenova.com
 www.qfucktalk.com
 www.qgripsearwax.com
+www.qinstaweb.com
 www.qiundgong.at
 www.qoqomarkt.com
 www.qpolitical.com
@@ -11830,7 +12026,9 @@ www.qxrorat.top
 www.raabeenq.com
 www.rabattdisney.com
 www.rabatteundcoupons.de
+www.racehood.top
 www.racerelations.news
+www.rachment.top
 www.racinesun.com
 www.radaflex.de
 www.radbekleidung4u.com
@@ -11850,6 +12048,7 @@ www.rainbeating.com
 www.ramonlabrador.de
 www.randolphcountynews.com
 www.random-markets.com
+www.rangeier.top
 www.ranoplay.de
 www.ranplay.de
 www.rapefugees.net
@@ -11894,6 +12093,7 @@ www.redstatewatcher.com
 www.redwoodempirenews.com
 www.reelnewsnetwork.com
 www.refortasev.com
+www.regardsq.com
 www.regated.com
 www.regenmantel24.de
 www.regional-fernsehen.com
@@ -11904,12 +12104,14 @@ www.reichwahl.de
 www.reidkanem.top
 www.reifen-market.com
 www.reiligs.de
+www.reinigungstrauss.de
 www.reisen-engler.de
 www.relaxify.de
 www.religionmind.com
 www.remintive.com
 www.remoplay.de
 www.renegadetribune.com
+www.renery.top
 www.rennradbekleidung.com
 www.renoplay.de
 www.renoreporter.com
@@ -11946,6 +12148,7 @@ www.rhein-entree.de
 www.rheineule.de
 www.rhein-trends24.de
 www.rheinwing.de
+www.rheokth.top
 www.rhodeshotel24.com
 www.ribusinessdaily.com
 www.ricadihotelspage.com
@@ -11961,6 +12164,7 @@ www.richtigwillig.ch
 www.richtigwillig.de
 www.rickwells.us
 www.ride-a-bike.club
+www.ridero-bikes.uk
 www.ridiculously.com
 www.riege-bonbonladenundfeines.de
 www.rightwingnews.com
@@ -11975,6 +12179,7 @@ www.riverfront.at
 www.riverparishnews.com
 www.riverregiontimes.com
 www.rivervalleytoday.com
+www.rjanujanu.top
 www.rkzhb.com
 www.rnthaulage.com
 www.roanokesun.com
@@ -11989,6 +12194,7 @@ www.rockinghamtimes.com
 www.rockislandtoday.com
 www.rockkelp.com
 www.rocklandreporter.com
+www.rockseedz.com
 www.rockymounttoday.com
 www.rocolee.com
 www.rodoplay.de
@@ -12023,6 +12229,7 @@ www.rosiecutie.com
 www.rosiesdaily.com
 www.rossoo.de
 www.rostary.com
+www.rostiza.com
 www.rotbarschfilet.de
 www.rothause.de
 www.roumite.com
@@ -12037,6 +12244,7 @@ www.royalkitten.at
 www.royaloop.com
 www.royalpomskyhome.com
 www.rsotecpro.com
+www.rtamgan.top
 www.rubuplay.de
 www.rubycloth.com
 www.rubyteand.com
@@ -12047,6 +12255,7 @@ www.ruptly.tv
 www.rushmorestatenews.com
 www.russia-direct.org
 www.russia-insider.com
+www.rustarium.top
 www.rutherfordtimes.com
 www.rww-minis.de
 www.ryjalew.com
@@ -12071,8 +12280,10 @@ www.saitnewsj.com
 www.sakvii.com
 www.salemnewswire.com
 www.sallofino.de
+www.saltar.top
 www.salzmann-c.at
 www.sama-logistic.com
+www.sameform.top
 www.samemoli.com
 www.samsfoon.eu
 www.samuel-warde.com
@@ -12125,6 +12336,7 @@ www.scharhoern.de
 www.schatzauge.de
 www.schaumstoffwelt.de
 www.scheuregger.de
+www.schirdewahn-autorin.de
 www.schlafewo.de
 www.schlafhimmelshop.de
 www.schlaftabletten-ohne-rezept.com
@@ -12213,6 +12425,7 @@ www.sehen-staunen-erleben.de
 www.sehoustonnews.com
 www.sehrruhig.de
 www.seib-service.de
+www.seiety.top
 www.seillinoisnews.com
 www.seindiananews.com
 www.seiowanews.com
@@ -12274,11 +12487,13 @@ www.sevegasnews.com
 www.sewashingtonnews.com
 www.sewyomingnews.com
 www.sfvtoday.com
+www.sgdsuaadah.ru
 www.sg-host.com
 www.sgvstandard.com
 www.shafa.ua
 www.shaplay.de
 www.sharedmovies.com
+www.sharifbagb.com
 www.sharopink.com
 www.shauntapparel.com
 www.sheadora.com
@@ -12327,6 +12542,7 @@ www.shoppingsmart.store
 www.shoppome.info
 www.shoprado.de
 www.shoprosada.com
+www.shotary.top
 www.showmestatetimes.com
 www.shreveportreporter.com
 www.shtf.news
@@ -12383,6 +12599,7 @@ www.smartbuyglasses.at
 www.smartfit-pro.de
 www.smart-market-online.com
 www.smartmeters.news
+www.smartselektronik.com
 www.smartstech24.online
 www.smart-tech48.space
 www.smatam.com
@@ -12580,6 +12797,7 @@ www.spring-express.com
 www.springfieldrecord.com
 www.springfieldstandard.com
 www.springstimes.com
+www.spuical.top
 www.spurguide.com
 www.spyder-outlet.com
 www.squraei.com
@@ -12591,6 +12809,7 @@ www.stammeskleidung.de
 www.stancery.com
 www.stanclara.com
 www.stanislausnews.com
+www.staplay.de
 www.starbuckswatch.news
 www.starelax.com
 www.stargatev.com
@@ -12608,7 +12827,9 @@ www.steen-text.de
 www.steiger-elektronik.de
 www.steinmusic-store.com
 www.steinstore24.de
+www.stelplay.de
 www.stepsclubg.com
+www.stereoise.top
 www.sterilize-x.com
 www.sternenschreiter.de
 www.sternestd.de
@@ -12655,6 +12876,7 @@ www.streamonlinemovies.com
 www.streamore.de
 www.streamtime.de
 www.stromboli-asi.at
+www.strongy.top
 www.studioy.de
 www.studyzones.com
 www.stunt-team.at
@@ -12697,6 +12919,7 @@ www.superfitbox24.com
 www.superfitchaussures.fr
 www.superfoods.news
 www.superpostalservice.com
+www.supership.top
 www.supersocken.de
 www.supersofabezug.com
 www.superstation95.com
@@ -12761,6 +12984,7 @@ www.szyciemamy.top
 www.t500track18.com
 www.t7cafe.de
 www.tabflix.de
+www.tableify.top
 www.tablet-restposten.club
 www.tablet-restposten.shop
 www.tacocood.com
@@ -12811,6 +13035,7 @@ www.technikcenter-deutschland.de
 www.technik-doku-design.de
 www.technikexpress24.de
 www.technikfusion.de
+www.technikhood.shop
 www.technik-schnaeppchen-shop.de
 www.technik-versand.website
 www.technocrats.news
@@ -12838,6 +13063,7 @@ www.tennisvillase.com
 www.tepffd.com
 www.tepwise.top
 www.terkos.de
+www.ternsome.top
 www.terrific.de
 www.tesdola.com
 www.tesento.com
@@ -12853,6 +13079,7 @@ www.tevlaria-elektra.com
 www.texaniuml.top
 www.texasbusinesscoalition.com
 www.thailights.de
+www.thai-massage-winsen.de
 www.thaisawadee.de
 www.thanvi.de
 www.thayajewels.com
@@ -12910,6 +13137,8 @@ www.the-leather-shop.com
 www.thelen-sport.de
 www.thelibertybeacon.com
 www.thelightshirt.online
+www.thelike.top
+www.thelsure.top
 www.thelucybra.com
 www.themichaelkorsoutlet.com
 www.themillenniumreport.com
@@ -12983,6 +13212,7 @@ www.thomassabosales.com
 www.thomassabosuk.com
 www.thomeifoods.com
 www.thorshipping.net
+www.thoughy.top
 www.threepercenternation.com
 www.thuglifevideos.com
 www.thumbreporter.com
@@ -12994,6 +13224,7 @@ www.tierliebeshop.com
 www.tier-wellness.at
 www.tikshopf.com
 www.tilasnewsl.com
+www.tilidin-kaufen.com
 www.tilintalang.com
 www.timberlandrakuten.com
 www.timberlands-onlineshop.de
@@ -13056,6 +13287,7 @@ www.topado.shop
 www.topamarkt.de
 www.topanyso.com
 www.top-apotheke.com
+www.toparian.top
 www.topekasnews.com
 www.topekasun.com
 www.toperuecken.com
@@ -13369,6 +13601,7 @@ www.vdd-osnabrueck.de
 www.vdk-lichtenfels.de
 www.vds-delivery.net
 www.veganfoodie.de
+www.vejaaustria.at
 www.vejasneaker.at
 www.velenza.de
 www.veloberlin.de
@@ -13426,6 +13659,8 @@ www.victorvalleytimes.com
 www.videokaarten.eu
 www.viennaapartments.org
 www.vierkantlager.de
+www.vilible.top
+www.vilis-elektronik.de
 www.villarrica.de
 www.villena.de
 www.villena.shop
@@ -13439,7 +13674,6 @@ www.violta.de
 www.violta.net
 www.vionicdeutschland.de
 www.vipkickz.com
-www.viprawoods.com
 www.viralactions.com
 www.viralcocaine.com
 www.viraldevil.com
@@ -13502,6 +13736,7 @@ www.vs-logistics.eu
 www.vsmee.com
 www.vtbusinessdaily.com
 www.vtecnokar.com
+www.vulpfold.top
 www.vunir.de
 www.vunol.de
 www.vupkurs.com
@@ -13515,6 +13750,7 @@ www.wadeviewparknews.com
 www.wagner-schwarzenberg.de
 www.wagner-versandhaus.de
 www.wagplay.de
+www.wahldate.de
 www.waifairy.com
 www.waislenews.com
 www.wakesurf.at
@@ -13689,6 +13925,7 @@ www.wherehowyoufrom.com
 www.wherelinen.com
 www.whfguxz.top
 www.wh-handelshaus.com
+www.whilester.top
 www.whitehouse.news
 www.whiteningbrites.com
 www.whitepower.com
@@ -13709,6 +13946,7 @@ www.wien-buero.at
 www.wienermassivhaus.at
 www.wien-geht-aus.at
 www.wiesmueller-waerme.de
+www.wikelski.com
 www.wiki4diy.com
 www.wikispooks.com
 www.wikomarkt.com
@@ -13877,6 +14115,7 @@ www.yorkconews.com
 www.yoshino.at
 www.youbestchoice.com
 www.youbue.com
+www.youfold.top
 www.yougogirl.clothing
 www.youngcons.com
 www.youngsexdoll.com
@@ -14040,6 +14279,7 @@ yorkconews.com
 yoshino.at
 youbestchoice.com
 youbue.com
+youfold.top
 yougogirl.clothing
 youngcons.com
 youngsexdoll.com
