@@ -31,11 +31,11 @@
 #    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
 #    3 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #    4 |    5585 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-#    5 |    1499 | domains | local  | online  | changed   | black.list.fake
+#    5 |    1499 | domains | local  | online  | unchanged | black.list.fake
 #    6 |    1383 | domains | local  | online  | unchanged | fake.ts.black.list
 #    7 |     487 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
-# 14345 unique Domains
+# 14343 unique Domains
 #
 1000gratisproben.com
 100percentfedup.com
@@ -270,7 +270,6 @@ amorrieyane.com
 amposts.com
 amren.com
 amtvmedia.com
-amzhedgefund.com
 anabolenkopen24.nl
 anabolika24.biz
 anabolika365.de
@@ -7357,7 +7356,6 @@ www.amorrieyane.com
 www.amposts.com
 www.amren.com
 www.amtvmedia.com
-www.amzhedgefund.com
 www.anabolenkopen24.nl
 www.anabolika24.biz
 www.anabolika365.de
