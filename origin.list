@@ -31,11 +31,11 @@
 #    2 |     252 | domains | http   | online  | unchanged | https://assets.windscribe.com/custom_blocklists/clickbait.txt
 #    3 |    1483 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #    4 |    5585 | domains | http   | online  | unchanged | https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-#    5 |    1420 | domains | local  | online  | unchanged | black.list.fake
+#    5 |    1499 | domains | local  | online  | changed   | black.list.fake
 #    6 |    1383 | domains | local  | online  | unchanged | fake.ts.black.list
 #    7 |     487 | domains | local  | online  | unchanged | fake.vzni.black.list
 #
-# 14337 unique Domains
+# 14345 unique Domains
 #
 1000gratisproben.com
 100percentfedup.com
@@ -2433,6 +2433,7 @@ gkmetalfabrication.com
 g-konsolen.com
 glaciercountrynews.com
 glanz-weinstrasse.at
+glassan.top
 gletta.com
 glitch.news
 global-beauty.shop
@@ -2788,6 +2789,7 @@ hollistercoaustria.at
 hollywoodhater.com
 holmedi.de
 holudo.de
+holule.top
 holycrossmoravianchurch.com
 holylandnutrition.com
 holzti.com
@@ -4654,6 +4656,7 @@ orlandostandard.com
 orrebol.com
 ortaklar.de
 ortando.de
+ostiics.top
 ouibayshop.fr
 ourshiftingperspective.com
 outbreak.news
@@ -6132,6 +6135,7 @@ thailights.de
 thai-massage-winsen.de
 thaisawadee.de
 thanvi.de
+thateer.top
 thayajewels.com
 theamericanindependent.wordpress.com
 theamericanmirror.com
@@ -9457,6 +9461,7 @@ www.gkmetalfabrication.com
 www.g-konsolen.com
 www.glaciercountrynews.com
 www.glanz-weinstrasse.at
+www.glassan.top
 www.gletta.com
 www.glitch.news
 www.global-beauty.shop
@@ -9806,6 +9811,7 @@ www.hollistercoaustria.at
 www.hollywoodhater.com
 www.holmedi.de
 www.holudo.de
+www.holule.top
 www.holycrossmoravianchurch.com
 www.holylandnutrition.com
 www.holzti.com
@@ -11630,6 +11636,7 @@ www.orlandostandard.com
 www.orrebol.com
 www.ortaklar.de
 www.ortando.de
+www.ostiics.top
 www.ouibayshop.fr
 www.ourshiftingperspective.com
 www.outbreak.news
@@ -13085,6 +13092,7 @@ www.thailights.de
 www.thai-massage-winsen.de
 www.thaisawadee.de
 www.thanvi.de
+www.thateer.top
 www.thayajewels.com
 www.theamericanmirror.com
 www.theamericanrevenant.com
